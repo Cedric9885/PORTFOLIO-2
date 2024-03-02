@@ -1,0 +1,35 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav ul h1 {
+    height: px;
+    display: flex;
+    list-style: none;
+}
+
+nav  li {
+    margin: 60px;
+}
+
+div p {
+    text-align: center;
+    border-style: inset;
+}
+
+body {
+    background-color:darkgray;
+}
+
+nav {
+    background-color:burlywood;
+    
+}
+
+footer {
+    background-color: white;
+}
+
+
+
+
